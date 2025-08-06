@@ -20,7 +20,7 @@ Un programme de **détection de couleur en temps réel** uti---
 
 **Prêt à détecter des couleurs ?** Lancez `python main.py` et amusez-vous !n par ordinateur pour identifier et suivre les **3 couleurs primaires** (Rouge, Bleu, Vert) via votre caméra.
 
-## AperçuCTEUR DE COULEUR RGB - Vision par Ordinateur
+## Détecteur de couleur RGB - Vision par Ordinateur
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.6+-green.svg)
@@ -31,8 +31,6 @@ Un programme de **détection de couleur en temps réel** utilisant la vision par
 ## � Aperçu
 
 Ce projet utilise **OpenCV** et la conversion d'espace colorimétrique **BGR → HSV** pour une détection de couleur robuste et précise. Une interface graphique intuitive permet de sélectionner la couleur à détecter, puis le programme affiche un rectangle vert autour des objets détectés en temps réel.
-
-![Demo](https://via.placeholder.com/600x300/2E8B57/FFFFFF?text=Démonstration+Vidéo)
 
 ## Fonctionnalités
 
@@ -302,12 +300,6 @@ Les contributions sont les bienvenues ! Voici comment contribuer :
 
 Ce projet est sous licence **MIT**. Voir le fichier `LICENSE` pour plus de détails.
 
-## AUTEUR
-
-**Votre Nom**
-- GitHub: [@votre-username](https://github.com/votre-username)
-- Email: votre.email@example.com
-
 ## REMERCIEMENTS
 
 - **OpenCV Team** pour la bibliothèque de vision par ordinateur
@@ -318,14 +310,12 @@ Ce projet est sous licence **MIT**. Voir le fichier `LICENSE` pour plus de déta
 
 ## � STATISTIQUES DU PROJET
 
-- 🎯 **Précision** : ~95% en conditions normales d'éclairage
-- ⚡ **Performance** : 30 FPS sur hardware standard
-- 🎨 **Couleurs** : 3 couleurs primaires optimisées
-- 📦 **Taille** : <50 KB de code source
-- 🛠️ **Dépendances** : 3 packages Python principaux
+- **Précision** : ~95% en conditions normales d'éclairage
+- **Performance** : 30 FPS sur hardware standard
+- **Couleurs** : 3 couleurs primaires optimisées
+- **Taille** : <50 KB de code source
+- **Dépendances** : 3 packages Python principaux
 
 ---
 
 **💡 Tip** : Pour une détection optimale, utilisez des objets aux couleurs vives et un éclairage uniforme !
-
-**🚀 Prêt à détecter des couleurs ?** Lancez `python main.py` et amusez-vous !
