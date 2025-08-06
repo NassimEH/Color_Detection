@@ -1,0 +1,17 @@
+# =============================================================================
+# DÉTECTEUR DE COULEUR RGB - DÉPENDANCES
+# =============================================================================
+# Installation : pip install -r requirements.txt
+# =============================================================================
+
+# Vision par ordinateur et traitement d'images
+opencv-python>=4.6.0
+
+# Calculs numériques et tableaux
+numpy>=1.21.0
+
+# Traitement d'images Python (PIL)
+Pillow>=9.0.0
+
+# Interface graphique (incluse avec Python standard)
+# tkinter - pas besoin d'installation séparée
